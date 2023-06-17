@@ -2,7 +2,7 @@
 //  main.cpp
 //  project_euler
 //
-//  Created by Ronny Steinke on 26.06.22.
+//  Created by R.S. on 26.06.22.
 //
 
 #include <iostream>
